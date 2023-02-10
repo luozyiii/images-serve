@@ -24,3 +24,4 @@ dist-ssr
 
 # miss
 package-lock.json
+.cache
